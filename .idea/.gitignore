@@ -323,3 +323,6 @@ Hunger_games.iml
 .idea/vcs.xml
 
 
+
+# Default ignored files
+/workspace.xml
